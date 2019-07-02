@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+
+
+.div2{
+	
+	width:800px;
+	height:600px;
+	background:url(patcare.jpg);
+	margin:100px auto;
+	animation:slide 20s infinite;
+	
+	
+}
+@keyframes slide{
+	
+	100%{
+	background:url(patcare.jpg);
+	
+	}
+	
+	50%{
+	background:url(pat.jpg);
+	}
+	
+	75%{
+	background:url(patientsafety_456px.jpg);
+	}
+	
+	
+	
+	100%{
+	background:url(kidcare.jpg);
+	}
+	
+
+
+

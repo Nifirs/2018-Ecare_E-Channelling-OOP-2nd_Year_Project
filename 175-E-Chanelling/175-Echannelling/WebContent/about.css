@@ -1,0 +1,70 @@
+@charset "ISO-8859-1";
+
+body{
+
+    margin: 0px; ; //essential
+
+
+}
+
+
+.ecare{
+	
+	top:0px;
+		
+	
+}
+
+a:hover{
+	
+	background-color:#33FFA5
+	
+}
+.div2{
+	
+	width:800px;
+	height:300px;
+	background:url(ecareImages/abc.jpg);
+	margin:100px auto;
+	animation:slide 20s infinite;
+	
+	
+}
+
+@keyframes slide{
+	
+	25%{
+	background:url(abc.jpg);
+	}
+	
+	50%{
+	background:url(img-global-infotech-core-values.png);
+	}
+	
+	75%{
+	background:url(us.jpg);
+	}
+	
+	100%{
+	background:url(logo.png);
+	}
+	
+
+a{
+	
+	text-align:center
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

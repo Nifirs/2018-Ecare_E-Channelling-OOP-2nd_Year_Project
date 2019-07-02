@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+
+
+.div2{
+	
+	width:800px;
+	height:600px;
+	background:url(ad2.jpg);
+	margin:100px auto;
+	animation:slide 15s infinite;
+	
+	
+}
+@keyframes slide{
+	
+	100%{
+	background:url(ad2.jpg);
+	
+	}
+	
+	50%{
+	background:url(admin1.jpg);
+	}
+	
+
+	
+	
+	75%{
+	background:url(aa.jpg);
+	}
+	
+	
+	100%{
+	background:url(admin.jpg);
+	}
+
+

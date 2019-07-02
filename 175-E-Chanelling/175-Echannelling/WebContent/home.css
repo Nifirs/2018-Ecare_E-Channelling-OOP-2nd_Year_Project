@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+body{
+
+    margin: 0px; ; //essential
+
+
+}
+
+
+.ecare{
+	
+	top:0px;
+		
+	
+}
+
+a:hover{
+	
+	background-color:#33FFA5
+	
+}
+
+.div2{
+	
+	width:800px;
+	height:600px;
+	background:url(vaastu-health.jpg);
+	margin:100px auto;
+	animation:slide 20s infinite;
+	
+	
+}
+@keyframes slide{
+	
+	25%{
+	background:url(vaastu-health.jpg);
+	
+	}
+	
+	50%{
+	background:url(hm.jpg);
+	}
+	
+	75%{
+	background:url(good-health.jpg);
+	}
+	
+	100%{
+	background:url(chn.jpg);
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

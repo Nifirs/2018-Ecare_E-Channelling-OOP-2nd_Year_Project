@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+
+
+ul li{
+	
+	text-align:center
+	outline:5px
+	
+}
+
+
+
+ul li a{
+	display:block
+	
+}
+
+ul li a:hover{
+	background-color:#26DDC9
+	
+	
+}
+
+
+ul li ul li{
+	
+	display:none
+}
+
+ul li:hover ul li{
+	display:block
+	
+	
+}
+

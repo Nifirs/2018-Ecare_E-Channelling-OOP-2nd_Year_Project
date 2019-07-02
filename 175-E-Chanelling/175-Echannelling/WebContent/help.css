@@ -1,0 +1,70 @@
+@charset "ISO-8859-1";
+
+body{
+
+    margin: 0px; ; //essential
+
+
+}
+
+
+.ecare{
+	
+	top:0px;
+		
+	
+}
+
+a:hover{
+	
+	background-color:#33FFA5
+	
+}
+
+.div2{
+	
+	width:800px;
+	height:300px;
+	background:url(ecareImages/medi.jpg);
+	margin:100px auto;
+	animation:slide 20s infinite;
+	
+	
+}
+@keyframes slide{
+	
+	25%{
+	background:url(ecareImages/medi.jpg);
+	}
+	
+	50%{
+	background:url(ecareImages/a.png);
+	}
+	
+	75%{
+	background:url(ecareImages/hlp.jpg);
+	}
+	
+	100%{
+	background:url(ecareImages/d1.jpg);
+	}
+	
+
+a{
+	
+	text-align:center
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
